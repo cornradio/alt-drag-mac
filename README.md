@@ -1,7 +1,7 @@
 alt-drag-mac:
-https://stefansundin.github.io/altdrag/
+[easy-move-resize](https://github.com/dmarcotte/easy-move-resize)
 
-[backup:](https://kasusa.lanzoul.com/iNH8C36iookb)
+[backup](https://kasusa.lanzoul.com/iNH8C36iookb)
 
 ---
 
