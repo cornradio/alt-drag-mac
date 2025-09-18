@@ -5,8 +5,9 @@ alt-drag-mac:
 
 ---
 
-alt drag win:
-https://stefansundin.github.io/altdrag/
-
+[altdrag win](https://stefansundin.github.io/altdrag/)
 [backup](https://kasusa.lanzoul.com/iGiCg36ioo3e)
 
+
+[altsnap win](https://github.com/RamonUnch/AltSnap/)
+[backup](https://kasusa.lanzoul.com/i4aYk36ioyof)
