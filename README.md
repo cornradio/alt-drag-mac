@@ -1,13 +1,12 @@
-alt-drag-mac:
-[easy-move-resize](https://github.com/dmarcotte/easy-move-resize)
+### 🖱️ Alt-Drag 工具整理
 
-[backup](https://kasusa.lanzoul.com/iNH8C36iookb)
+#### **macOS**
+- [Easy Move+Resize](https://github.com/dmarcotte/easy-move-resize)
+- 备用下载：[Lanzou](https://kasusa.lanzoul.com/iNH8C36iookb)
 
----
+#### **Windows**
 
-[altdrag win](https://stefansundin.github.io/altdrag/)
-[backup](https://kasusa.lanzoul.com/iGiCg36ioo3e)
-
-
-[altsnap win](https://github.com/RamonUnch/AltSnap/)
-[backup](https://kasusa.lanzoul.com/i4aYk36ioyof)
+- [AltDrag](https://stefansundin.github.io/altdrag/)
+    - 备用下载：[Lanzou](https://kasusa.lanzoul.com/iGiCg36ioo3e)
+- [AltSnap](https://github.com/RamonUnch/AltSnap/)
+    - 备用下载：[Lanzou](https://kasusa.lanzoul.com/i4aYk36ioyof)
